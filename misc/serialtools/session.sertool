@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GUItool</key>
+	<integer>0</integer>
+	<key>SnifferAutoRTS</key>
+	<true/>
+	<key>SnifferBaudRate</key>
+	<string>9600</string>
+	<key>SnifferDTRa</key>
+	<false/>
+	<key>SnifferDTRb</key>
+	<false/>
+	<key>SnifferDataBits</key>
+	<string>8</string>
+	<key>SnifferParity</key>
+	<string>none</string>
+	<key>SnifferPortA</key>
+	<string>MALS</string>
+	<key>SnifferPortB</key>
+	<string>MALS</string>
+	<key>SnifferRTSa</key>
+	<false/>
+	<key>SnifferRTSb</key>
+	<false/>
+	<key>SnifferRaw</key>
+	<false/>
+	<key>SnifferStopBits</key>
+	<string>1</string>
+	<key>TerminalBaudRate</key>
+	<string>9600</string>
+	<key>TerminalDTR</key>
+	<false/>
+	<key>TerminalDataBits</key>
+	<string>7</string>
+	<key>TerminalLocalEcho</key>
+	<true/>
+	<key>TerminalParity</key>
+	<string>odd</string>
+	<key>TerminalPort</key>
+	<string>usbserial</string>
+	<key>TerminalRTS</key>
+	<false/>
+	<key>TerminalRaw</key>
+	<false/>
+	<key>TerminalSendCRLF</key>
+	<true/>
+	<key>TerminalStopBits</key>
+	<string>1</string>
+</dict>
+</plist>
